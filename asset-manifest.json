@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SciastraChatbot/static/css/main.32bf87bd.css",
+    "main.js": "/SciastraChatbot/static/js/main.ac6a5317.js",
+    "static/js/787.917857b7.chunk.js": "/SciastraChatbot/static/js/787.917857b7.chunk.js",
+    "static/media/img.png": "/SciastraChatbot/static/media/img.7cb5c118fe612d52a0ea.png",
+    "index.html": "/SciastraChatbot/index.html",
+    "main.32bf87bd.css.map": "/SciastraChatbot/static/css/main.32bf87bd.css.map",
+    "main.ac6a5317.js.map": "/SciastraChatbot/static/js/main.ac6a5317.js.map",
+    "787.917857b7.chunk.js.map": "/SciastraChatbot/static/js/787.917857b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bf87bd.css",
+    "static/js/main.ac6a5317.js"
+  ]
+}
