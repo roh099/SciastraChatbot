@@ -1,0 +1,12 @@
+
+
+.sc-gzVnrw
+{
+ 
+  content: url('../src/img.png'); /* Replace with your actual icon image path */
+  display: inline-block;
+  margin-right: 10px;
+  width: 20px; /* Adjust the width of the icon */
+  height: 40px; /* Adjust the height of the icon */
+  
+}
